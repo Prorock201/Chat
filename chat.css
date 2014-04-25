@@ -1,0 +1,98 @@
+.content {
+    width: 1020px;
+    height: 600px;
+    margin: 50px;
+    font-family: Verdana, monospace;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.login {
+    width: 1020px;
+    height: 500px;
+    border: 3px ridge gray;
+    text-align: center;
+    font-size: 24pt;
+    line-height: 200px;
+    display: block;
+}
+
+.content__window {
+    width: 1020px;
+    height: 500px;
+    border: 3px ridge gray;
+    display: none;
+    overflow-y: auto;
+}
+
+.content__control {
+    width: 1000px;
+    height: 100px;
+}
+
+#sendText {
+    width: 800px;
+    margin: 40px;
+}
+
+.message {
+    width: 1000px;
+    text-align: center;
+    float: left;
+}
+
+.message__info {
+    width: 1000px;
+    float: left;
+}
+
+.user-info {
+    width: 500px;
+    margin: 8px;
+    color: red;
+    text-shadow: 1px 1px 1px red;
+    cursor: default;
+    float: left;
+}
+
+.user-info div{
+    width: 245px;
+}
+
+.user-control {
+    width: 200px;
+    float: right;
+}
+
+.user-control div{
+    width: 80px;
+    margin: 5px;
+    border: 3px outset yellow;
+    color: yellow;
+    background-color: blue;
+    text-shadow: 1px 1px 1px yellow;
+    cursor: pointer;
+}
+
+.message__author {
+    float: left;
+}
+
+.message__date {
+    float: right;
+}
+
+.message__edit {
+    float: left;
+}
+
+.message__delete {
+    float: right;
+}
+
+.message__text {
+    margin: 10px;
+    margin-top: 40px;
+    text-align: left;
+    word-wrap: break-word;
+    background-color: #FFEEAA;
+}
