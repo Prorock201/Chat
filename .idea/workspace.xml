@@ -26,10 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="712" selection-end="712" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="544">
-              <folding>
-                <element signature="e#728#3736#0" expanded="false" />
-              </folding>
+            <state line="60" column="16" selection-start="3874" selection-end="3923" vertical-scroll-proportion="-17.653847" vertical-offset="561" max-vertical-offset="1190">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,7 +35,7 @@
       <file leaf-file-name="chat.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="50" selection-start="2165" selection-end="2165" vertical-scroll-proportion="1.5157343" vertical-offset="0" max-vertical-offset="1496">
+            <state line="72" column="38" selection-start="3731" selection-end="3731" vertical-scroll-proportion="0.3339161" vertical-offset="1033" max-vertical-offset="2125">
               <folding />
             </state>
           </provider>
@@ -61,6 +59,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="demo.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="11" selection-start="285" selection-end="285" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="25" selection-start="2172" selection-end="2172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+              <folding>
+                <marker date="1398524763296" expanded="true" signature="84:254" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -75,6 +93,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/chat.css" />
         <option value="$PROJECT_DIR$/chat2.js" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/demo.js" />
         <option value="$PROJECT_DIR$/chat.js" />
       </list>
     </option>
@@ -136,7 +156,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chat.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -224,9 +245,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="41" selection-start="588" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1190">
-          <folding>
-            <element signature="e#728#3736#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -254,9 +273,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="41" selection-start="588" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1190">
-          <folding>
-            <element signature="e#728#3736#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -281,13 +298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1768">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -295,18 +305,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="285" selection-end="285" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="25" selection-start="2172" selection-end="2172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+          <folding>
+            <marker date="1398524763296" expanded="true" signature="84:254" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="712" selection-end="712" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="544">
-          <folding>
-            <element signature="e#728#3736#0" expanded="false" />
-          </folding>
+        <state line="60" column="16" selection-start="3874" selection-end="3923" vertical-scroll-proportion="-17.653847" vertical-offset="561" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1768">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="50" selection-start="2165" selection-end="2165" vertical-scroll-proportion="1.5157343" vertical-offset="0" max-vertical-offset="1496">
+        <state line="72" column="38" selection-start="3731" selection-end="3731" vertical-scroll-proportion="0.3339161" vertical-offset="1033" max-vertical-offset="2125">
           <folding />
         </state>
       </provider>
